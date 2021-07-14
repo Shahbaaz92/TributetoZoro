@@ -1,0 +1,58 @@
+html{
+  margin:0;
+  padding:0;
+  overflow-x:hidden;
+}
+body{
+  box-sizing:border-box;
+  text-align:center;
+  font-family: 'Lato', sans-serif;
+ 
+}
+#main{
+  background-color:#03AC13;
+  padding-bottom:1rem;
+  
+}
+#title{
+  padding-top:3rem;
+  font-size:3rem;
+  margin:0;
+}
+.tagline{
+  padding-bottom:1rem;
+}
+#img-div{
+  background-color:#fff;
+  padding:2rem 0;
+  width:100%;
+  background-color:#6dfc7b;
+}
+
+img{
+  max-width:90%;
+    height:auto;
+  margin:0 auto;
+  display:block;
+}
+#img-caption{
+  font-weight:700;
+}
+#tribute-info{
+  padding:0.5rem
+}
+#tribute-info p{
+  font-weight:400;
+}
+p{
+  font-size:1.2rem;
+  margin:.5rem;
+  padding:0;
+}
+h2{
+  font-size:2rem;
+}
+#tribute-info p{
+  background-color:#6dfc7b;
+  padding:1rem;
+}
